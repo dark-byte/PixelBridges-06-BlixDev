@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Sep 2023 02:21:56 at https://blix.dev/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://blix.dev/ -O1 "C:\My Web Sites\blix" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:22:30	Error: 	"Forbidden" (403) at link https://blix.dev/"videos/PAGE3-poster-00001.jpg" (from https://blix.dev/)
+02:22:30	Error: 	"Forbidden" (403) at link https://blix.dev/"videos/page-4-poster-00001.jpg" (from https://blix.dev/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 seconds : 56 links scanned, 53 files written (31708198 bytes overall) [31678515 bytes received at 931721 bytes/sec], 89476 bytes transferred using HTTP compression in 1 files, ratio 34%, 9.3 requests per connection
+(2 errors, 0 warnings, 0 messages)
